@@ -1,0 +1,105 @@
+{
+  "recipies": [
+    {
+      "id": "1",
+      "title": "Palov",
+      "cookingTime": "120 minutes",
+      "ingredients": ["rise", "carrot", "meat", "oil", "onion", "spices"],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis porttitor enim. Integer dignissim, nisi sit amet dictum varius, ipsum nibh bibendum orci, eget venenatis neque massa sit amet velit. Vestibulum accumsan posuere ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. ",
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:1400/0*UxnVMQMIAowST-rp"
+    },
+    {
+      "id": "2",
+      "title": "Ko'kat Somsa",
+      "cookingTime": "40 minutes",
+      "ingredients": ["flour", "carrot", "meat", "oil", "onion", "spices"],
+      "method": "Morbi cursus tellus nec iaculis dapibus. Etiam eget dolor maximus, malesuada nunc et, viverra dolor. Donec laoreet sodales est. Sed sed magna vestibulum, fringilla metus suscipit, convallis neque. Phasellus vestibulum dolor non ipsum fringilla, quis accumsan dui porta. Pellentesque suscipit lectus velit, vel faucibus sem ultrices id. Nunc sodales pretium justo, ac ullamcorper quam cursus tempus.",
+      "imageUrl": "https://arbuz.com/wp-content/uploads/2017/08/Samsa-Recipe-46.jpg"
+    },
+    {
+      "id": "3",
+      "title": "sho'rva",
+      "cookingTime": "60 minutes",
+      "ingredients": ["potatoes", "water", "mutton", "onion", "spices"],
+      "method": "Dimlama is one of the most popular dishes in Uzbekistan. He is considered a participant of the Kitchen of the Peoples of the World contest. The combination of meat with various vegetables and greens makes this dish not only tasty and healthy, but also festively bright and beautiful. A special feature of stewing is that all vegetables are cut into large pieces, picked in layers, and stewed for a long time with meat. And, of course, a wonderful collection of spices - cilantro, cumin, bell pepper and red pepper play an important role. This combination is often widely used in Uzbek cuisine and gives dishes a unique taste.",
+      "imageUrl": "https://i.ytimg.com/vi/rgK--lNy6JU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDow4KxfHmS1r_5NdWl9NSpCATjoQ"
+    },
+    {
+      "id": "4",
+      "title": "dimlama",
+      "cookingTime": "60 minutes",
+      "ingredients": [
+        "potatoes",
+        "mutton",
+        "cabbage",
+        "oil",
+        "onion",
+        "spices"
+      ],
+      "method": "Dimlama is one of the Uzbek national dishes, made from various vegetables, and is especially loved by the elderly The advantage of such a dish is that the vegetables are not fried, but only steamed About 65,000 soums are spent on the food to be prepared price valid only at the time of publication of the resourceIf you want to be among the first to get acquainted with new recipes, be sure to subscribe to our Telegram channel.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSz6xdc5MPtH2DEWPR7dhHOWzjnItWUBUOPNXgwCp-xw&s"
+    },
+    {
+      "id": "5",
+      "title": "olivea",
+      "cookingTime": "30 minutes",
+      "ingredients": ["sausage", "potatoes", "mayonnaise", "egg", "peas"],
+      "method": "Along with our post about cooking techniques with raw olive oil oil, we share the main culinary techniques with hot olive oil We usually associate hot olive oil with frying, but, as Firo Vázquez says in the GastrOleum app, we can use hot olive oil in many different ways.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXtzChpN_iL4-Lao_8tbsviJ8v7m1jGD7AGontylJVzQ&s"
+    },
+    {
+      "id": "6",
+      "title": "pitsa",
+      "cookingTime": "30 minutes",
+      "ingredients": ["dough", "glaze", "meat", "salt", "leader", "spices"],
+      "method": "Have you looked at pizza cookbooks and baking stones in the store but did not have the guts to try making pizza yourself? Worse yet, do you have a pizza pan or a pizza stone that is sitting in your cupboard gathering dust because you have never made a pizza that is good enough to justify all the effort? Pizza Making: for Great Homemade Pizza is what you need!",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPO6YjgWW_Pb4ANgFDmEWDE-NlPCWZCS8J5xfg8cNOTA&s"
+    },
+    {
+      "id": "7",
+      "title": "xod dog",
+      "cookingTime": "20 minutes",
+      "ingredients": [
+        "bread",
+        "red carrot",
+        "mayonnaise",
+        "ketchup",
+        "chips",
+        "sausage"
+      ],
+      "method": "Bring water to a boil. Add the hot dogs one at a time using tongs. Reduce the heat to the low setting and allow the hot dogs to simmer for anywhere from 3 to 6 minutes (the longer they simmer, the crispier they'll be). Once they're done, use tongs to remove them from the water and pat them dry with paper towels..",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxHwcoKPMcBDfY-eHgCXuL0dk3LY73vvz2667Wvo63IQ&s"
+    },
+    {
+      "id": "8",
+      "title": "lavash",
+      "cookingTime": "25 minutes",
+      "ingredients": ["Meat", "onion", "fat", "cucumber", "Bulgarian", "dough"],
+      "method": "A simple dough made of wheat flour and water is kneaded and formed into balls, which are then rolled into thin layers and stretched over a special oval cushion that is then slapped against the wall of a traditional conical clay oven. After thirty seconds to a minute, the baked bread is pulled from the oven wall.",
+      "imageUrl": "https://anhor.uz/wp-content/uploads/2023/12/side_view_chicken_roll_grilled_chicken_lettuce_cucumber_tomato_mayo_pita_1200x675.jpg"
+    },
+    {
+      "id": "9",
+      "title": "xonim",
+      "cookingTime": "50 minutes",
+      "ingredients": [
+        "dough",
+        "vegetable oil",
+        "meat",
+        "onion",
+        "cumin",
+        "spices"
+      ],
+      "method": "Uzbek cuisine does not cease to amaze with a rich variety of traditional dishes, and the ingredients are mostly the same - flour, water, meat and salt. At the festive tables of Uzbekistan and in everyday life in the markets one can often find a national Uzbek dish - norin. The unusual taste of lace-like noodles in combination with horsemeat (classic version) makes the dish taste fantastic.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSHD0ZBO7frqF-oKWw7PpiCmqLXaIgiKf5-pp9opVCTQ&s"
+    },
+    {
+      "id": "10",
+      "title": "sumalak",
+      "cookingTime": "1440 minutes",
+      "ingredients": ["flour", "fat", "stone", "chickpea", "wheat", "sugar"],
+      "method": "There are many stories about the appearance of the dish and it is difficult to say which of them is true. One of them says that the first dish was prepared during the siege of the city on the Bank of Ceyhun (the second river in length in Central Asia. Today is called Amu Darya). When stocks of food were over and there was only a little damp wheat, the commanders ordered to cook it in a large pot. The soldiers tasted an inescapable brew and felt an unusual surge of strength, one after another beat off the enemy’s attacks and in the end — won it.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaIgEVLFKsa3ShNzO98wNGLsz7iu7ZSpuTY4sl5TovlA&s"
+    }
+  ]
+}
